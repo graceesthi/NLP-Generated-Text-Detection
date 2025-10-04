@@ -1,10 +1,5 @@
 # NLP Generated Text Detection
 
-**Author:** Grâce Esther DONG  
-**Academic Program:** 4th Year Engineering - AI Specialization  
-**Institution:** Aivancity School for Technology, Business & Society  
-**Academic Year:** 2024-2025
-
 ## Project Overview
 
 This project implements a sophisticated text classification system to detect AI-generated content using BERT (Bidirectional Encoder Representations from Transformers). The system can distinguish between human-written and machine-generated text with high accuracy.
