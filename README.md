@@ -2,18 +2,23 @@
 
 **Author:** Grâce Esther DONG  
 **Academic Program:** 4th Year Engineering - AI Specialization  
-**Institution:** [Your Institution Name]  
+**Institution:** Aivancity School for T## Contact
+
+**Grâce Esther DONG**
+
+---
+*Advancing NLP research for content authenticity*, Business & Society  
 **Academic Year:** 2024-2025
 
-## 📋 Project Overview
+## Project Overview
 
 This project implements a sophisticated text classification system to detect AI-generated content using BERT (Bidirectional Encoder Representations from Transformers). The system can distinguish between human-written and machine-generated text with high accuracy.
 
-## 🎯 Objective
+## Objective
 
 Develop a robust classifier to identify automatically generated text in academic abstracts, addressing the growing need for AI-generated content detection in academic and professional contexts.
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** Hybrid subset from Vijini et al. research
 - **Composition:** Human-written abstracts with AI-generated sentence replacements
@@ -21,7 +26,7 @@ Develop a robust classifier to identify automatically generated text in academic
 - **Classes:** Human-written vs. AI-generated text
 - **Challenge:** Detecting subtle differences in hybrid documents
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.x**
 - **PyTorch** - Deep learning framework
@@ -30,7 +35,7 @@ Develop a robust classifier to identify automatically generated text in academic
 - **NumPy** - Numerical operations
 - **tqdm** - Progress tracking
 
-## 🏗️ Architecture
+## Architecture
 
 ### BERT-based Classification Pipeline
 
@@ -47,7 +52,7 @@ Model Architecture:
 └── Binary Output (Human/Generated)
 ```
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 NLP-Generated-Text-Detection/
@@ -72,7 +77,7 @@ NLP-Generated-Text-Detection/
     └── preprocessing.py
 ```
 
-## 🔬 Methodology
+## Methodology
 
 ### Data Preprocessing
 - Text normalization and cleaning
@@ -92,7 +97,7 @@ NLP-Generated-Text-Detection/
 - **F1-Score:** Balanced performance measure
 - **Confusion Matrix:** Detailed classification analysis
 
-## 📈 Results
+## Results
 
 ### Model Performance
 - **Training Accuracy:** [Your achieved accuracy]%
@@ -107,7 +112,7 @@ NLP-Generated-Text-Detection/
 - Robust generalization to unseen text samples
 - Identification of linguistic markers in generated text
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation
 ```bash
@@ -134,7 +139,7 @@ print(f"Prediction: {'Human' if prediction == 0 else 'Generated'}")
 python src/trainer.py --data_path data/ --epochs 10 --batch_size 16
 ```
 
-## 🔍 Research Context
+## Research Context
 
 This project addresses critical challenges in:
 - **Academic Integrity:** Detecting AI assistance in academic writing
@@ -142,31 +147,31 @@ This project addresses critical challenges in:
 - **NLP Applications:** Advancing text classification techniques
 - **AI Ethics:** Understanding AI-generated content implications
 
-## 📊 Technical Contributions
+## Technical Contributions
 
 - **Advanced BERT Fine-tuning:** Optimized for text authenticity detection
 - **Hybrid Dataset Processing:** Effective handling of mixed content
 - **Robust Evaluation:** Comprehensive performance assessment
 - **Scalable Architecture:** Adaptable to various text domains
 
-## 🏆 Academic Achievements
+## Academic Achievements
 
 - Successful implementation of state-of-the-art NLP techniques
 - Deep understanding of transformer architectures
 - Practical application of AI ethics principles
 - Contribution to academic integrity research
 
-## 📚 References
+## References
 
 - Vijini et al. - Generated Text Detection Dataset
 - BERT: Pre-training of Deep Bidirectional Transformers
 - Hugging Face Transformers Documentation
 
-## 📝 License
+## License
 
 This project is developed for academic purposes. Please cite appropriately if used for research.
 
-## 📧 Contact
+## Contact
 
 **Grâce Esther DONG**  
 Email: [your.email@domain.com]  
@@ -174,4 +179,4 @@ LinkedIn: [Your LinkedIn Profile]
 GitHub: [Your GitHub Profile]
 
 ---
-*Advancing NLP research for content authenticity* 📝🤖
+*Advancing NLP research for content authenticity*
