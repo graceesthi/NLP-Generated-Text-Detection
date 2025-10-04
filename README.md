@@ -161,12 +161,5 @@ This project addresses critical challenges in:
 
 This project is developed for academic purposes. Please cite appropriately if used for research.
 
-## Contact
-
-**Grâce Esther DONG**  
-Email: [your.email@domain.com]  
-LinkedIn: [Your LinkedIn Profile]  
-GitHub: [Your GitHub Profile]
-
 ---
 *Advancing NLP research for content authenticity*
